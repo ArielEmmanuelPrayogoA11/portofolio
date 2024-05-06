@@ -1,0 +1,96 @@
+.bg-gray {
+    background-color: #026BFF; 
+   
+}
+.bg-bantuan {
+    background-color: #0156E1; 
+   
+}
+
+.underline{
+    height: 3px;
+    width: 50px;
+    background-color: #e71212 !important;
+    margin-bottom: 10px;
+}
+
+.underline2 {
+    height: 3px;
+    width: 50px;
+    background-color: #ffffff; 
+    margin: 0 auto; 
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.paddingbanyak{
+    padding-top : 7em;
+}
+.paddingbanyakbawah{
+    padding-bottom : 7em;
+}
+
+.waduh {
+        font-size: 44px; 
+        font-weight: bold; 
+    }
+.waduhai {
+        font-size: 44px !important; 
+    }
+
+
+.custom-btn {
+    background-color: white;
+    color: black; 
+    transition: background-color 0.3s ease; 
+}
+
+.custom-btn:hover {
+    background-color: transparent; 
+    color: white; 
+}
+
+.textbesar {
+        font-size: 144px; 
+        font-weight: bold; 
+}
+
+.hometext {
+        font-size: 70px; 
+        font-weight: bold; 
+}
+
+
+.bg-disabled{
+    background-color: #E9E9E9;
+}
+
+.bg-home{
+    background-color: #3DC086;
+}
+
+.bg-dbnav{
+    background-color: #0F8CD8;
+}
+
+.warna-aktif{
+    color: #7CFF31 !important;
+    font-weight: 700 !important;
+}
+
+.warna-mokad{
+    font-weight: 700 !important;
+}
+
+
+/* SIDEBAR */
+
+
+   
+    .sb-sidenav a:hover {
+        background-color: #02378F !important;
+    
+    }
+
+ 
