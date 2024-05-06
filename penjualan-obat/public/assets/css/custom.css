@@ -1,0 +1,169 @@
+.bg-greyes{
+    background-color : #AEAEAE;
+}
+
+.navbar{
+    padding: 0px 0px !important;
+    background-color: #580000 !important;
+    
+}
+
+.navbar-nav .nav-link{
+    
+    padding: 8px 18px !important;
+    font-size: 25px !important;
+    color: white !important;
+}
+
+
+
+.navbar-nav .nav-link:hover {
+    color: #f8f9fa;
+    background-color: #FBBD05 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+
+}
+
+.card-shadow{
+    box-shadow: 0 2px 8px 0 rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+.category-heading{
+    padding: 10px 12px;
+    border-left: 6px solid #000;
+    background-color: #ddd;
+}
+
+.post-heading{
+    font-size: 26px;
+    color: #000;
+}
+
+.owl-nav button.owl-next, 
+.owl-nav button.owl-prev {
+    color: #fff !important;
+    margin-left: 10px;
+    margin-top: 10px !important;
+    background-color : black !important;
+    border: none !important;
+    outline: none;
+    font-size: 25px !important;
+    width: 70px !important;
+}
+
+.owl-nav button.owl-next:hover, 
+.owl-nav button.owl-prev:hover {
+    color: #000 !important;
+    background-color: white !important;
+}
+
+
+
+
+.underline{
+    height: 3px;
+    width: 50px;
+    background-color: #e71212 !important;
+    margin-bottom: 10px;
+}
+
+.paddingbanyak{
+    padding: 150px !important;
+}
+
+.paddingnav{
+    padding: 30px !important;
+}
+
+.boldstrong {
+    font-weight: bold;
+}
+
+
+
+.post-description{
+    overflow-y : scroll;
+    scrollbar-width : none;
+}
+
+.post-code-bg {
+    width: fit-content;
+    min-width: 100%;
+    background-color: #212121 !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+    position:relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+
+
+
+.bg-crimson {
+    background-color : #7E1111;
+
+}
+
+.bg-crimson2 {
+    background-color : #580000;
+
+}
+
+
+.bg-red {
+    background-color : #FF0000;
+
+}
+
+.paddingbanyak {
+    margin-top : 5em;
+    margin-bottom : 10em;
+    
+}
+.paddingbanyakbawah {
+
+    margin-bottom : 10em;
+    margin-top : 7em;
+    
+}
+
+
+.text-bold {
+    font-weight : bold;
+}
+
+/* checkout */
+
+.checkout-form label{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.checkout-form input{
+    font-size: 16px;
+    padding: 5px;
+    font-weight: 400;
+}
+
+
+.order-details label{
+    font-size: 16px;
+    font-weight: 700;
+}
+.order-details div{
+    font-size: 14px;
+    padding: 10px;
+}
+
+.search-bar{
+    width: 40%;
+    margin-left: 5%
+
+}
+
+
+.ui-menu{
+    z-index: 3500 !important;
+}
